@@ -1,6 +1,11 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi Guy's 👋 </h1>
+<h2 align="center">Our goal is to improve Stdudent's skills on Coding.<br/>(C, C++, PHP, Python, SQL) <br/></h2>
 
+<p align="center">
 <img src="https://github.com/German-IT-Support/.github/blob/main/profile/compiling-code.gif" alt="DevOps" widht="300" height="300" />
+</p>
+
+
 <!--
 
 **Here are some ideas to get you started:**
