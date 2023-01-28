@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<img src="compiling-code.gif" alt="DevOps" />
+<img src="https://github.com/German-IT-Support/.github/blob/main/profile/compiling-code.gif" alt="DevOps" widht="300" height="300" />
 <!--
 
 **Here are some ideas to get you started:**
