@@ -1,8 +1,8 @@
-<h1 align="center"> Hi Guy's 👋 </h1>
-<h2 align="center">Our goal is to improve Stdudent's skills on Coding.<br/>(C, C++, PHP, Python, SQL) <br/></h2>
+<h1 align="center"> 🇨🇲 Hi Guy's 👋 and Welcome 🇩🇪 </h1>
+<h3 align="center">🤓 Our goal is to improve 🚀 and help stdudents on < Coding />. 💻<br/>(C, C++, PHP, Python, SQL) <br/></h3>
 
 <p align="center">
-<img src="https://github.com/German-IT-Support/.github/blob/main/profile/support-it.gif" alt="DevOps" widht="300" height="300" />
+<img src="https://github.com/German-IT-Support/.github/blob/main/profile/support-it.gif" alt="DevOps" widht="200" height="180" />
 </p>
 
 
