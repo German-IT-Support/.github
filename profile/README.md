@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<img src="anim.gif.mp4" alt="DevOps" />
+<img src="compiling-code.gif" alt="DevOps" />
 <!--
 
 **Here are some ideas to get you started:**
