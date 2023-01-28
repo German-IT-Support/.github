@@ -1,4 +1,4 @@
-<h1 align="center">🇨🇲 Hi, and Welcome 🇩🇪</h1>
+<h1 align="center">🇨🇲 Welcome to you 🇩🇪</h1>
 
 <h3 align="center">🤓 Our goal is to improve 🚀 and help stdudents on < Coding />. 💻<br/>(C, C++, PHP, Python, SQL) <br/></h3>
 
