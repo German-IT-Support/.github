@@ -1,6 +1,6 @@
-<h1 align="center">👋🏼 Hi guy's 😃<br/>and<br/>🇨🇲 Welcome ! 🇩🇪</h1>
+<h1 align="center">👋🏼 Hi guy's 😃<br/>🇨🇲 Welcome ! 🇩🇪</h1>
 
-<h3 align="center">🤓 Our goal is to improve 🚀 and help stdudents on < Coding />. 💻<br/>(C, C++, PHP, Python, SQL) <br/></h3>
+<h2 align="center">🤓 Our goal is to improve 🚀 and help stdudents on < Coding />. 💻<br/>(C, C++, PHP, Python, SQL) <br/></h2>
 
 <p align="center">
 <img src="https://github.com/German-IT-Support/.github/blob/main/profile/support-it.gif" alt="DevOps" widht="200" height="180" />
